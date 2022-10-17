@@ -51,12 +51,12 @@ Como sustituto al anterior llegó Falcon 9. SpaceX anunció su desarrollo en sep
 
 Es un cohete en dos etapas. Como recogen desde su propia página web, la primera etapa incorpora nueve motores Merlin y tanques de aleación de aluminio y litio que contienen oxígeno líquido y queroseno. La segunda parte o etapa está impulsada por un motor de vacío Merlin que se enciende unos segundos después de la separación y tiene la capacidad de reiniciarse varias veces con el fin de colocar cargas útiles en diferentes órbitas. Entre ambos, la interetapa que conecta ambas y que tiene los “empujadores neumáticos” que permiten que se separen.
 
-##### Falcon Heavy
+##### **Falcon Heavy**
 
 En el año 2011 comenzó a desarrollarse y su primera misión, la inaugural, fue en febrero de 2018 y llevó como carga el Tesla Roadster, el vehículo creado por Elon Musk. Este vehículo o cohete, está compuesto en total por 27 motores Merlin 1B.
 *(falta información actualizada a la fecha)
 
-##### Dragon (tripulada)
+##### **Dragon** (tripulada)
 
 La nave espacial Dragon es capaz de transportar hasta 7 pasajeros hacia y desde la órbita terrestre y más allá. Es la única nave espacial que vuela actualmente y que es capaz de devolver cantidades significativas de carga a la Tierra, y es la primera nave espacial privada que lleva humanos a la estación espacial.
 
