@@ -21,12 +21,21 @@ Desde principios del año 2002, Elon Musk comenzó a trabajar en la creación de
 
 Desde sus inicios hasta hoy han pasado unos veinte años y la empresa cuenta con casi 10.000 empleados y varios grandes hitos en la historia espacial de todo el mundo.
 
-Logros e importancia
+#### Logros e importancia
+
+| Año | Nombre | Logro |
+| :---: | :---- | :--- |
+| 2008 | Falcon 1 | Cohete de combustible líquido en alcanzar órbita con financiamiento privado | 
+| 2010 | Dragon | 1° empresa privada en lanzar a órbita y recuperar nave | 
+| 2012 | Dragon | 1° empresa privada en enviar una nave a la Estación Espacial Internacional |
+| 2015 | Falcon 9 | 1° aterrizaje propulsado de un cohete orbital |
+| 2017 | Falcon 9 | 1° reutilización de un cohete orbital | 
+| 2018 | Falcon Heavy | 1° empresa privada en lanzar una carga en órbita heliocéntrica |
+| 2020 | Dragon 2 | 1° empresa en enviar astronautas a la Estación Espacial Internacional |
+
 Desde 2002 hasta hoy, SpaceX ha conseguido marcar en su historia varios logros fundamentales a nivel mundial. En mayo de 2021 se completaba el ultimo hasta ahora lanzado el cohete Starship y logrando que aterrizase con éxito. Pero entre sus logros también están otros como el Falcon 1 o el Falcon 9. El primero fue el primer cohete de financiación privada que consiguió alcanzar la órbita y lo hizo en septiembre de 2018. Ya con Falcon 9 consiguió otros muchos logros como primera compañía que pone en órbita y recupera una nave espacial, la primera en enviar un satélite a una órbita geosíncrona.
 
 También SpaceX ha sido la primera empresa privada en poner humanos en órbita y lo hizo en mayo de 2020 con el Crew Dragon Demo-2 y también, solo un día después, la primera empresa privada que conseguía llevar humanos a la Estación Especial Internacional.
-
-#### Cohetes
 
 ### Vehículos y lanzamientos
 
@@ -35,6 +44,7 @@ También SpaceX ha sido la primera empresa privada en poner humanos en órbita y
 Casi un año más tarde lo consiguió de nuevo pese a los tres primeros lanzamientos fallidos con fuga de combustible o con problemas de separación en la segunda fase.
 
 **Falcón 9**
+
 Como sustituto al anterior llegó Falcon 9. SpaceX anunció su desarrollo en septiembre de 2005 y se trata de un vehículo de lanzamiento reutilizable. Este cohete ya ha hecho más de 120 lanzamientos en total y es parcialmente reutilizable para poder reducir el coste de los lanzamientos: las partes más caras del cohete pueden usarse de nuevo. Un cohete en dos etapas con una altura de 70 metros, un diámetro de 3,7 metros y una masa de 549,054 kilogramos según recoge la propia web de SpaceX.
 
 Es un cohete en dos etapas. Como recogen desde su propia página web, la primera etapa incorpora nueve motores Merlin y tanques de aleación de aluminio y litio que contienen oxígeno líquido y queroseno. La segunda parte o etapa está impulsada por un motor de vacío Merlin que se enciende unos segundos después de la separación y tiene la capacidad de reiniciarse varias veces con el fin de colocar cargas útiles en diferentes órbitas. Entre ambos, la interetapa que conecta ambas y que tiene los “empujadores neumáticos” que permiten que se separen.
@@ -43,4 +53,4 @@ Es un cohete en dos etapas. Como recogen desde su propia página web, la primera
 En el año 2011 comenzó a desarrollarse y su primera misión, la inaugural, fue en febrero de 2018 y llevó como carga el Tesla Roadster, el vehículo creado por Elon Musk. Este vehículo o cohete, está compuesto en total por 27 motores Merlin 1B.
 *(falta información actualizada a la fecha)*
 
-#### Bla bla
+
