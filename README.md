@@ -45,6 +45,8 @@ El Falcon 1 realizó vuelos entre los años 2006 y 2009 aunque actualmente ya no
 
 Casi un año más tarde lo consiguió de nuevo pese a los tres primeros lanzamientos fallidos con fuga de combustible o con problemas de separación en la segunda fase.
 
+!(https://space.skyrocket.de/img_lau/falcon-1__3.jpg)
+
 **Falcón 9**
 
 Como sustituto al anterior llegó Falcon 9. SpaceX anunció su desarrollo en septiembre de 2005 y se trata de un vehículo de lanzamiento reutilizable. Este cohete ya ha hecho más de 120 lanzamientos en total y es parcialmente reutilizable para poder reducir el coste de los lanzamientos: las partes más caras del cohete pueden usarse de nuevo. Un cohete en dos etapas con una altura de 70 metros, un diámetro de 3,7 metros y una masa de 549,054 kilogramos según recoge la propia web de SpaceX.
