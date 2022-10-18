@@ -59,7 +59,7 @@ La nave espacial Dragon es capaz de transportar hasta 7 pasajeros hacia y desde 
 **Starship** (tripulada)
 Starship es la nave espacial totalmente reutilizable y la segunda etapa del sistema Starship. El vehículo ofrece una sección de carga útil integrada y es capaz de transportar pasajeros y carga a la órbita terrestre, destinos planetarios y entre destinos en la Tierra.
 
-####  Proyectos
+###  Proyectos
 
 **Cohetes reutilizables** 
 Siguiendo la lógica de los aviones comerciales se generan cohetes reutilizables con la función de volver a utilizar la nave. Los cohetes Falcon 9 y Falcon Heavy después de los lanzamientos orbitales, vuela y aterriza en un sitio predeterminado usando su propio sistema de propulsión. Los cohetes regresas a una plataforma de aterrizaje marina, denominada naves autónomas de drones de puertos espaciales. Elon Musk no es la única persona en lograr este tipo de aterrizaje ya que su competencia Blue Origin, dirigida por Jeff Bezos, también ha logrado aterrizar sus cohetes de un modo similar. 
