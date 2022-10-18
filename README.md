@@ -1,6 +1,6 @@
 # Clase-11
 
- ### Links sobre Space X
+ ### Links sobre SpaceX
  
  [Wikipedia](https://en.wikipedia.org/wiki/SpaceX)
  
