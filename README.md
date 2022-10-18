@@ -53,18 +53,26 @@ Como sustituto al anterior llegó Falcon 9. SpaceX anunció su desarrollo en sep
 
 Es un cohete en dos etapas. Como recogen desde su propia página web, la primera etapa incorpora nueve motores Merlin y tanques de aleación de aluminio y litio que contienen oxígeno líquido y queroseno. La segunda parte o etapa está impulsada por un motor de vacío Merlin que se enciende unos segundos después de la separación y tiene la capacidad de reiniciarse varias veces con el fin de colocar cargas útiles en diferentes órbitas. Entre ambos, la interetapa que conecta ambas y que tiene los “empujadores neumáticos” que permiten que se separen.
 
+![spacex-lo-que-debes-saber-del-lanzamiento-del-falcon-9-770x513](https://user-images.githubusercontent.com/91480489/196318633-b94b3ae1-3eb8-4253-a666-b4436ab3a574.jpg)
+
 **Falcon Heavy**
 
 En el año 2011 comenzó a desarrollarse y su primera misión, la inaugural, fue en febrero de 2018 y llevó como carga el Tesla Roadster, el vehículo creado por Elon Musk. Este vehículo o cohete, está compuesto en total por 27 motores Merlin 1B.
 *(falta información actualizada a la fecha)
 
+![220px-Falcon_Heavy_cropped](https://user-images.githubusercontent.com/91480489/196318676-448059af-328b-42b7-8467-9791260abb21.jpg)
+
 **Dragon** (tripulada)
 
 La nave espacial Dragon es capaz de transportar hasta 7 pasajeros hacia y desde la órbita terrestre y más allá. Es la única nave espacial que vuela actualmente y que es capaz de devolver cantidades significativas de carga a la Tierra, y es la primera nave espacial privada que lleva humanos a la estación espacial.
 
+![GettyImages-1245332713](https://user-images.githubusercontent.com/91480489/196318717-a403d7fb-a9ec-4068-8ee7-5bfde2cc35da.jpg)
+
 **Starship** (tripulada)
 
 Starship es la nave espacial totalmente reutilizable y la segunda etapa del sistema Starship. El vehículo ofrece una sección de carga útil integrada y es capaz de transportar pasajeros y carga a la órbita terrestre, destinos planetarios y entre destinos en la Tierra.
+
+![450_1000](https://user-images.githubusercontent.com/91480489/196318776-60815d74-abd9-4f94-9dea-32be4ee457f1.jpg)
 
 ###  Proyectos
 
