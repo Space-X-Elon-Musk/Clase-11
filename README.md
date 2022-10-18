@@ -14,14 +14,14 @@
 
 Space X o Space Exploration Technologies Corp es una empresa americana de fabricación aeroespacial fundada por Elon Musk en el año 2002. Tiene sede en California y su misión principal es construir naves que lleguen a Marte. Aunque más allá de la misión principal, SpaceX cuenta con proyectos como Starlink, Starship o el desarrollo de los cohetes Falcon, vehículos de lanzamientos fabricados por SpaceX.
 
-La empresa fue fundada por Elon Musk en el año 2002, también creador de otras como Tesla o Hyperloop. Como hemos explicado en el párrafo anterior, el objetivo es facilitar la labor para viajar a Marte y crear un “sistema de transporte interplanetario”. 
+La empresa fue fundada por Elon Musk en el año 2002, también creador de otras como Tesla o Hyperloop. Como hemos explicado en el párrafo anterior, el objetivo es facilitar la labor para viajar a Marte y crear un “sistema de transporte interplanetario”. Además, Elon Musk ha manifestado querer que llegar a Marte sea algo accesible para casi cualquiera, reduciendo los costos para viajar al espacio. 
 
 ### Inicios de SpaceX
 Desde principios del año 2002, Elon Musk comenzó a trabajar en la creación de esta empresa que fue fundada en junio de dichos años. Antes, el famoso empresario ya había trabajado en proyectos similares como Mars Oasis que buscaba enviar una especie de invernadero experimental a marte, por ejemplo. Pero fue con SpaceX cuando empezaría a crecer la idea del espacio en la sede en California.
 
 Desde sus inicios hasta hoy han pasado unos veinte años y la empresa cuenta con casi 10.000 empleados y varios grandes hitos en la historia espacial de todo el mundo.
 
-#### Logros e importancia
+### Logros e importancia
 
 | Año | Nombre | Logro |
 | :---: | :---- | :--- |
@@ -39,7 +39,9 @@ También SpaceX ha sido la primera empresa privada en poner humanos en órbita y
 
 ### Vehículos y lanzamientos
 
-**Falcon 1** El Falcon 1 realizó vuelos entre los años 2006 y 2009 aunque actualmente ya no se utiliza. Es un sistema de lanzamiento desechable para poner en órbita satélites y también sirvió como prueba para desarrollar el modelo Falcon 9. No fue a la primera su éxito sino que se usó en cinco misiones y fue en la cuarta cuando logró alcanzar la órbita, el 28 de septiembre de 2018.
+**Falcon 1** 
+
+El Falcon 1 realizó vuelos entre los años 2006 y 2009 aunque actualmente ya no se utiliza. Es un sistema de lanzamiento desechable para poner en órbita satélites y también sirvió como prueba para desarrollar el modelo Falcon 9. No fue a la primera su éxito sino que se usó en cinco misiones y fue en la cuarta cuando logró alcanzar la órbita, el 28 de septiembre de 2018.
 
 Casi un año más tarde lo consiguió de nuevo pese a los tres primeros lanzamientos fallidos con fuga de combustible o con problemas de separación en la segunda fase.
 
@@ -50,22 +52,28 @@ Como sustituto al anterior llegó Falcon 9. SpaceX anunció su desarrollo en sep
 Es un cohete en dos etapas. Como recogen desde su propia página web, la primera etapa incorpora nueve motores Merlin y tanques de aleación de aluminio y litio que contienen oxígeno líquido y queroseno. La segunda parte o etapa está impulsada por un motor de vacío Merlin que se enciende unos segundos después de la separación y tiene la capacidad de reiniciarse varias veces con el fin de colocar cargas útiles en diferentes órbitas. Entre ambos, la interetapa que conecta ambas y que tiene los “empujadores neumáticos” que permiten que se separen.
 
 **Falcon Heavy**
+
 En el año 2011 comenzó a desarrollarse y su primera misión, la inaugural, fue en febrero de 2018 y llevó como carga el Tesla Roadster, el vehículo creado por Elon Musk. Este vehículo o cohete, está compuesto en total por 27 motores Merlin 1B.
 *(falta información actualizada a la fecha)
 
 **Dragon** (tripulada)
+
 La nave espacial Dragon es capaz de transportar hasta 7 pasajeros hacia y desde la órbita terrestre y más allá. Es la única nave espacial que vuela actualmente y que es capaz de devolver cantidades significativas de carga a la Tierra, y es la primera nave espacial privada que lleva humanos a la estación espacial.
 
 **Starship** (tripulada)
+
 Starship es la nave espacial totalmente reutilizable y la segunda etapa del sistema Starship. El vehículo ofrece una sección de carga útil integrada y es capaz de transportar pasajeros y carga a la órbita terrestre, destinos planetarios y entre destinos en la Tierra.
 
 ###  Proyectos
 
 **Cohetes reutilizables** 
+
 Siguiendo la lógica de los aviones comerciales se generan cohetes reutilizables con la función de volver a utilizar la nave. Los cohetes Falcon 9 y Falcon Heavy después de los lanzamientos orbitales, vuela y aterriza en un sitio predeterminado usando su propio sistema de propulsión. Los cohetes regresas a una plataforma de aterrizaje marina, denominada naves autónomas de drones de puertos espaciales. Elon Musk no es la única persona en lograr este tipo de aterrizaje ya que su competencia Blue Origin, dirigida por Jeff Bezos, también ha logrado aterrizar sus cohetes de un modo similar. 
 
 **Colonizar Marte**
-Elon Musk tiene pensado que para el próximo siglo, lograr llevar a 1 millón de personas a Marte. Esto con la intención de que los humanos se conviertan en una especie interplanetaria, esto se lograría transportando hasta 100 personas a la vez a través de sus naves reutilizables y otras que aún están en desarrollo.
+
+Elon Musk tiene pensado que para el próximo siglo, lograr llevar a 1 millón de personas a Marte. Esto con la intención de que los humanos se conviertan en una especie interplanetaria. Este objetivo se lograría llevando 100 personas a la vez a través de sus naves reutilizables, y otras que aún están en desarrollo.
 
 **Big Falcon Rocket**
+
 Es un cohete propulsor y nave espacial que busca reemplace tres proyectos emblemáticos de SpaceX: el Falcon 9 que propulsa a la cápsula Dragon para abastecer a la Estación Espacial Internacional, la propia cápsula y el Falcon Heavy. El BFR mediría 106 metros de alto, con un empuje de 10.8 millones de libras, por lo que sería el cohete más poderoso jamás construido, superando el Saturn V (7.9 millones) que fue el encargado de enviar a astronautas a la Luna en la década de 1970.
