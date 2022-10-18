@@ -67,4 +67,5 @@ Siguiendo la lógica de los aviones comerciales se generan cohetes reutilizables
 **Colonizar Marte**
 Elon Musk tiene pensado que para el próximo siglo, lograr llevar a 1 millón de personas a Marte. Esto con la intención de que los humanos se conviertan en una especie interplanetaria, esto se lograría transportando hasta 100 personas a la vez a través de sus naves reutilizables y otras que aún están en desarrollo.
 
-
+**Big Falcon Rocket**
+Es un cohete propulsor y nave espacial que busca reemplace tres proyectos emblemáticos de SpaceX: el Falcon 9 que propulsa a la cápsula Dragon para abastecer a la Estación Espacial Internacional, la propia cápsula y el Falcon Heavy. El BFR mediría 106 metros de alto, con un empuje de 10.8 millones de libras, por lo que sería el cohete más poderoso jamás construido, superando el Saturn V (7.9 millones) que fue el encargado de enviar a astronautas a la Luna en la década de 1970.
